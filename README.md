@@ -1,7 +1,6 @@
 # VMG – V Modelines Generator
 
-https://hardcade-system.com/img/Vmodelines.png
-![VMG – V Modelines Generator](images/Vmodelines.png)
+![VMG – V Modelines Generator](https://hardcade-system.com/img/Vmodelines.png)
 
 **VMG (V Modelines Generator)** is a video modeline generator developed by HardCade for retro gaming enthusiasts and users working with custom video modes and CRT displays.
 
