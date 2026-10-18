@@ -8,12 +8,12 @@ VMG allows you to create precise video configurations, with a refresh rate adjus
 
 ## Features
 
-- **Refresh rate calculations with up to six decimal places and adjustment precision down to **0.001 Hz**.
-- **Wide resolution support:** generate modelines for low- and high-resolution video modes, from 240p to 1080p.
-- **15 kHz CRT support:** configure video modes for compatible CRT televisions and arcade monitors.
-- **Pixel clock overclocking:** increase the pixel clock frequency without altering the structure of the modelines.
-- **Soft15kHz included:** provided primarily for use with older-generation NVIDIA graphics cards.
-- **CRT Emudriver compatibility:** designed to work with compatible ATI/AMD Radeon graphics cards using CRT Emudriver.
+- Refresh rate calculations with up to six decimal places and adjustment precision down to **0.001 Hz**.
+- Wide resolution support:** generate modelines for low- and high-resolution video modes, from 240p to 1080p.
+- 15 kHz CRT support:** configure video modes for compatible CRT televisions and arcade monitors.
+- Pixel clock overclocking:** increase the pixel clock frequency without altering the structure of the modelines.
+- Soft15kHz included:** provided primarily for use with older-generation NVIDIA graphics cards.
+- CRT Emudriver compatibility:** designed to work with compatible ATI/AMD Radeon graphics cards using CRT Emudriver.
 
 
 **Note:** When launching VMG, Windows will ask for permission to make changes to your system. This is normal and required for Soft15kHz configuration. Simply click **Yes** to continue.
