@@ -1,5 +1,7 @@
 # VMG – V Modelines Generator
 
+https://hardcade-system.com/img/Vmodelines.png
+
 **VMG (V Modelines Generator)** is a video modeline generator developed by HardCade for retro gaming enthusiasts and users working with custom video modes and CRT displays.
 
 VMG allows you to create precise video configurations, with a refresh rate adjustment resolution of up to **0.001 Hz**. It supports low and high resolutions, from **240p to 1080p**, including **15 kHz** configurations for CRT televisions and arcade monitors.
