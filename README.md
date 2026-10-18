@@ -13,6 +13,9 @@ VMG allows you to create precise video configurations, with a refresh rate adjus
 - **Soft15kHz included:** provided primarily for use with older-generation NVIDIA graphics cards.
 - **CRT Emudriver compatibility:** designed to work with compatible ATI/AMD Radeon graphics cards using CRT Emudriver.
 
+
+**Note:** When launching VMG, Windows will ask for permission to make changes to your system. This is normal and required for Soft15kHz configuration. Simply click **Yes** to continue.
+
 ## Download
 
 **[Download the latest version of VMG](https://github.com/HardCade/Hardcade-VMG/releases/latest)**
