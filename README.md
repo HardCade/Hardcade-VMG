@@ -8,7 +8,7 @@ VMG allows you to create precise video configurations, with a refresh rate adjus
 
 ## Features
 
-- **High-precision modeline generation:** fine-tune refresh rates with an adjustment resolution of up to 0.001 Hz.
+- **Refresh rate calculations with up to six decimal places and adjustment precision down to **0.001 Hz**.
 - **Wide resolution support:** generate modelines for low- and high-resolution video modes, from 240p to 1080p.
 - **15 kHz CRT support:** configure video modes for compatible CRT televisions and arcade monitors.
 - **Pixel clock overclocking:** increase the pixel clock frequency without altering the structure of the modelines.
